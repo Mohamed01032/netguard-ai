@@ -1,0 +1,7 @@
+scapy>=2.5
+scikit-learn>=1.3
+pandas>=2.0
+numpy
+matplotlib
+joblib
+requests
